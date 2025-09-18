@@ -1,0 +1,15 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+#define ll long long
+#define vi vector<int>
+#define vl vector <ll>
+
+int main(){
+    int t;
+    cin >> t;
+    while (t--){
+        int n,m,l,r;
+        cin
+    }
+}
